@@ -69,9 +69,10 @@ The database supports realistic NHS-style queries, including:
 
 Producured by:
 
+Mohammad Sabur Ali Mahdi
+
 Salman Hussain
 
-Mohammad Sabur Ali Mahdi
 
 This repository focuses on database design rather than application-level implementation.
 The accompanying PDF contains the full academic justification, diagrams, and design
