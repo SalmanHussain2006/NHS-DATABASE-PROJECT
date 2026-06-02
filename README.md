@@ -67,8 +67,9 @@ The database supports realistic NHS-style queries, including:
 - Normalization (1NF, 2NF, 3NF)
 - Data Integrity & Consistency
 
-Salman Hussain  
-BSc Computer Science – Queen Mary University of London
+Producured by:
+Mohammad Sabur Ali Mahdi
+Salman Hussain
 
 This repository focuses on database design rather than application-level implementation.
 The accompanying PDF contains the full academic justification, diagrams, and design
